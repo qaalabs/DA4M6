@@ -1,8 +1,6 @@
 # HYPOTHESIS TESTING
 *50 MINUTE SESSION RUN SHEET*
 
----
-
 ## **PREPARATION**
 
 **Before session:**
